@@ -2,4 +2,4 @@
 Ceci est une documentation très documentante 👍
 
 
-clique ici → **[PIE]('/readme/README.md')**
+clique ici → **[PIE](/readme/README.md)**
