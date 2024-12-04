@@ -5,7 +5,7 @@
     "chartjs-plugin-datalabels": "^2.2.0",
     "filereader": "^0.10.3",
     "jsonwebtoken": "^9.0.2",
-    "mongoose": "^8.2.3",
+    "mongoose": "^8.8.3",
     "uuid": "^9.0.1"
   }
 }
